@@ -266,7 +266,7 @@ The `chatterImageEditor` LWC exposes these flow screen properties:
 
 ## Credits
 
-Built by **[Neil Blackman](https://github.com/neilcorp2kx)** at Trusted Tech Team after discovering the idea still wasn't delivered 7 years after it was first filed.
+Built by **[Neil Blackman](https://github.com/neilcorp2kx)** after discovering the idea still wasn't delivered 7 years after it was first filed. Built with [Claude Code](https://claude.com/claude-code).
 
 Shared back to the community with the hope that nobody else has to rediscover the rta-image / ConnectApi / Quill sanitization / Lightning Web Security path-retargeting maze.
 
