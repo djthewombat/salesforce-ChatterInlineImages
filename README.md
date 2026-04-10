@@ -4,7 +4,7 @@
 
 **Paste screenshots directly into Chatter posts. Have them render inline. In Lightning Experience.**
 
-<sub>A working solution to a <a href="https://ideas.salesforce.com/s/idea/a0B8W00000PFdoSUAT/enable-pasting-images-in-chatter-for-lightning-experience">7-year-old IdeaExchange request</a> — without a browser extension, without <code>Click link for image</code> fallback text, without hand-rolled rta-image workarounds.</sub>
+<sub>A working solution to an <a href="https://ideas.salesforce.com/s/idea/a0B8W00000PFdoSUAT/enable-pasting-images-in-chatter-for-lightning-experience">IdeaExchange request with 9,450 points</a> that Salesforce marked <strong>"Archived: Never"</strong> — without a browser extension, without <code>Click link for image</code> fallback text, without hand-rolled rta-image workarounds.</sub>
 
 <br/>
 
@@ -270,7 +270,7 @@ The `chatterImageEditor` LWC exposes these flow screen properties:
 
 ## Credits
 
-Built by **[Neil Blackman](https://github.com/neilcorp2kx)** after discovering the idea still wasn't delivered 7 years after it was first filed. Built with [Claude Code](https://claude.com/claude-code).
+Built by **[Neil Blackman](https://github.com/neilcorp2kx)** after discovering the IdeaExchange request had accumulated 9,450 points since 2023 — and was formally marked `Archived: Never` by Salesforce. Built with [Claude Code](https://claude.com/claude-code).
 
 Shared back to the community with the hope that nobody else has to rediscover the rta-image / ConnectApi / Quill sanitization / Lightning Web Security path-retargeting maze.
 
